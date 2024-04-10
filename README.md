@@ -10,3 +10,4 @@
 ## Como executar
 1. Clone o repositório: 
 ```bash
+git clone https://github.com/DevRobertaPaes/mundo1-python.git
