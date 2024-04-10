@@ -11,3 +11,16 @@
 1. Clone o repositório: 
 ```bash
 git clone https://github.com/DevRobertaPaes/mundo1-python.git
+
+2. Abra o código no seu IDE de preferência
+
+3. Dependendo da IDE, talvez seja necessário criar um ambiente. Aperte CTRL+SHIFT+P e escolha o ambiente de execução.
+
+3. Instale as bibliotecas necessárias para execução do projeto. Para instalar as dependências, basta digitar na linha de comando `pip install` e o nome das bibliotecas utilizadas.
+
+## Bibliotecas Utilizadas
+- __tkinter__: Para criar interfaces gráficas.
+- __PIL__ (Pillow): Para trabalhar com imagens.
+- __os__: Para interação com o Sistema Operacional.
+- __bcrypt__: Para hash de senhas.
+- __pandas__: Para manipulação de dados.
