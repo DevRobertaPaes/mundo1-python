@@ -24,3 +24,7 @@ git clone https://github.com/DevRobertaPaes/mundo1-python.git
 - __os__: Para interação com o Sistema Operacional.
 - __bcrypt__: Para hash de senhas.
 - __pandas__: Para manipulação de dados.
+
+## Vídeo Demonstrativo
+
+Assista ao vídeo de demonstração no [YouTube]
