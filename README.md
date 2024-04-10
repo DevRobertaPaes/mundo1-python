@@ -27,4 +27,4 @@ git clone https://github.com/DevRobertaPaes/mundo1-python.git
 
 ## Vídeo Demonstrativo
 
-Assista ao vídeo de demonstração no [YouTube]
+Assista ao vídeo de demonstração no [YouTube](https://www.youtube.com/watch?v=wYv_81VNJoQ&t=18s)
